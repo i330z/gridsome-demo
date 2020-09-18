@@ -1,6 +1,7 @@
 <template>
     <Layout>
         <div class="container mx-auto">
+            <h1>{{ $page.post.title }}</h1>
             <img :src="$page.post.thumbnail" width="500" alt="">
             <div class="markdown-body" v-html="$page.post.content"></div>
         </div>
