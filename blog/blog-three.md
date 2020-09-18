@@ -1,6 +1,6 @@
 ---
 title: Blog Three
-thumbnail: uploads/cake-1.jpg
+thumbnail: /uploads/cake-1.jpg
 ---
 Hello welcome to bake bunny.
 
