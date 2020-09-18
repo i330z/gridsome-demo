@@ -18,10 +18,7 @@ module.exports = {
     }
   },
   plugins: [
-     // configure Netlify CMS
-     { use: 'gridsome-plugin-netlify-cms' },
-     // fix paths
-     { use: 'gridsome-plugin-netlify-cms-paths' },
+
     {
       use: '@gridsome/source-filesystem',
       options: {
@@ -31,7 +28,8 @@ module.exports = {
           // remark options
         }
       }
-    }
+    },
+   
   ],
   css: {
     loaderOptions: {
