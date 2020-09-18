@@ -1,6 +1,6 @@
 ---
 title: Blog Three
-thumbnail: uploads/cute-rabbit-carrot-icon-illustration-bunny-logo-mascot-cartoon-character-animal-logo-concept-white-isolated_138676-821.jpg
+thumbnail: uploads/how-to-uninstall-avast..jpg
 ---
 Hello welcome to bake bunny.
 
