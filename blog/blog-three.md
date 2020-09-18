@@ -1,6 +1,6 @@
 ---
 title: Blog Three
-thumbnail: uploads/how-to-uninstall-avast..jpg
+thumbnail: uploads/cake-1.jpg
 ---
 Hello welcome to bake bunny.
 
