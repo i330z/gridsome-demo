@@ -1,6 +1,8 @@
 <template>
     <Layout>
-        <div class="markdown-body" v-html="$page.post.content">
+        <div class="container mx-auto">
+            <img :src="$page.post.thumbnail" width="500" alt="">
+            <div class="markdown-body" v-html="$page.post.content"></div>
         </div>
     </Layout>
 </template>
@@ -12,6 +14,7 @@ query Post ($path: String!){
   post: post (path: $path){
     title
     content
+    thumbnail
   }
 }
 

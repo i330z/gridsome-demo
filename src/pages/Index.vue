@@ -5,7 +5,8 @@
     <div class="container mx-auto">
       <div class="flex mb-4">
       <div class="w-full bg-gray-500 h-12">
-        WELCOME to BAKEBUNNY
+    WELCOME to BAKEBUNNY
+        
       </div>
     </div> 
     </div>

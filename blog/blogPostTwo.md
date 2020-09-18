@@ -1,5 +1,6 @@
 ---
 title: Blog Post Two
+thumbnail: /uploads/cake-2.jpg
 ---
 
 
